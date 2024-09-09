@@ -18,6 +18,7 @@ I'm currently pursuing my Bachelor's degree in Computer Science and Engineering.
 - **Languages**: [C, C++, Java, Python]
 - **Databases**: [MySQL, Postgresql]
 - **Tools**: [Git, GitHub, VS Code, etc.]
+- Spring boot
 - Google cloud computing 
 
 ---
