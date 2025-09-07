@@ -15,7 +15,7 @@ I'm currently pursuing my Bachelor's degree in Computer Science and Engineering.
 ---
 
 ## 🛠️ Languages and Tools
-- **Languages**: [C, C++, Java, Python]
+- **Languages**: [Java]
 - **Databases**: [MySQL, Postgresql]
 - **Tools**: [Git, GitHub, VS Code, etc.]
 - Spring boot
