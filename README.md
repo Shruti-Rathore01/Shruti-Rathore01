@@ -27,7 +27,7 @@ I'm currently pursuing my Bachelor's degree in Computer Science and Engineering.
 ## 📫 Get in Touch
 - LinkedIn: https://www.linkedin.com/in/shruti-rathore-0a06a9250/
 - Email: rshruti1232@gmail.com
-
+https://codolio.com/profile/coffee
 
 Thanks for visiting my profile! Let's connect and collaborate on exciting projects! 😊
 
